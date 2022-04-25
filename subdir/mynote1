@@ -1,0 +1,11 @@
+To create a new directory via GitHub https://www.alpharithms.com/how-to-create-a-folder-in-github-repos-463022/
+1. Open your repository
+2. Choose "Add file" -> "Create new file"
+3. On the left upper section you will see the path followed by an input field: your_repo/[______]
+        - simply add the directory name and forward-slash in the field
+        - path will update to: your_repo/directory_name/[______]
+        - put the name of the file at the end, you will get: your_repo/directory_name/file_name 
+4. Scroll down and choose "Commit new file"
+5. You should now see the new folder in your repo
+
+You want empty folder? https://github.community/t/empty-folders-in-repository/116274/4
